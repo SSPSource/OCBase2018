@@ -1,0 +1,10 @@
+\.DS_Store
+*.xccheckout
+*.xcworkspace
+*.xcuserstate
+project.xcworkspace
+project.xcworkspace/*
+xcuserdata
+xcuserdata/*
+Podfile.lock
+Pods/
